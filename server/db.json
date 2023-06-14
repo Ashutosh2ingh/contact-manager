@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": "AA1234",
+      "name": "Ashutosh Singh",
+      "company": "Techpath",
+      "email": "ashutosh@techpath.biz",
+      "title": "Trainee",
+      "mobile": "8707332099",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanlasPgQjfGGU6anray6qKVVH-ZlTqmuTHw&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "id": "AA1235",
+      "name": "Sahil Kumar",
+      "company": "Techpath",
+      "email": "sahil@techpath.biz",
+      "title": "Student",
+      "mobile": "7054780585",
+      "photo": "https://static.vecteezy.com/system/resources/previews/019/896/008/original/male-user-avatar-icon-in-flat-design-style-person-signs-illustration-png.png",
+      "groupId": "1"
+    },
+    {
+      "id": "AA1236",
+      "name": "Vijay Kumar",
+      "company": "Techpath",
+      "email": "vijay@techpath.biz",
+      "title": "Employee",
+      "mobile": "9415625403",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "groupId": "5"
+    },
+    {
+      "id": "AA1237",
+      "name": "Suryansh Pandey",
+      "company": "Techpath",
+      "email": "surya@techpath.biz",
+      "title": "Full Stack Developer",
+      "mobile": "8006573053",
+      "photo": "https://creazilla-store.fra1.digitaloceanspaces.com/icons/7911830/avatar-icon-md.png",
+      "groupId": "6"
+    },
+    {
+      "name": "Amrita Singh",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprjP-BMSaPG1L-_gGNVEVpP9pqXbmkUJk2g&usqp=CAU",
+      "mobile": "1234567890",
+      "email": "amrita@techpath.biz",
+      "company": "Techpath",
+      "title": "Operation Manager",
+      "groupId": "1",
+      "id": "_Sv7Glh"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
